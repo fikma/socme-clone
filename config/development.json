@@ -1,0 +1,11 @@
+{
+	"app": {
+		"port": 1234
+	},
+	"dbConfig": {
+		"host": "127.0.0.1",
+		"name": "ig_clone",
+		"username": "ig-clone",
+		"password": "ig-clone"
+	}
+}
