@@ -1,0 +1,11 @@
+{
+	"app": {
+		"port": 8000
+	},
+	"dbConfig": {
+		"host": "127.0.0.1",
+		"name": "databaseName",
+		"username": "databaseUsername",
+		"password": "databasePassword"
+	}
+}
