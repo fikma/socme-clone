@@ -1,0 +1,11 @@
+GET http://localhost:1234/api/v1
+
+###
+
+POST http://localhost:1234/api/v1/data HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+
+{
+	"message": "hello"
+}
